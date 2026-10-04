@@ -41,3 +41,17 @@ Low
 Normal
 High
 Very High
+
+Daily Nutrition Summary
+
+Number of meals:
+Number of snacks:
+Water intake:
+Appetite level:
+Overall nutrition: 
+Poor 
+Okay 
+Good 
+Very Good
+
+Notes:
