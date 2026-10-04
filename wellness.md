@@ -37,4 +37,5 @@ High
 Medium
 Low
 
-
+Daily Notes
+Notes:
