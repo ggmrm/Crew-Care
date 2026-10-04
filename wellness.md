@@ -1,3 +1,12 @@
+
+Astronaut Information
+
+Astronaut Name:
+
+Mission:
+
+Mission Day:
+
 CrewCare Wellness CheckIn
 
 Mental Wellbeing
@@ -27,3 +36,5 @@ Energy Level:
 High
 Medium
 Low
+
+
